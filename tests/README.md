@@ -18,6 +18,10 @@ The test module contains three BDD scenarios:
 
 ## Execution
 
-Run the scenarios through the HDBResale_ServerTests module in the OutSystems environment.
+The BDD scenarios are implemented in the OutSystems `HDBResale_ServerTests` module using BDDFramework.
 
-The scenarios passed during the previous test execution. Rerun them before final submission to confirm the current results.
+The three scenarios passed during the previous test execution. Rerun them before final submission to verify the latest results.
+
+## Test Artifacts
+
+The OutSystems application package is available under `outsystems/application-export/`. The automated test module is included in the `HDBResale_ServerTests.oap` package.
