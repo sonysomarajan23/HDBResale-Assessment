@@ -117,7 +117,9 @@ Refer to [`outs​​ystems/README.md`](outsystems/README.md) for environment ac
 **Published application:**  
 https://personal-fir4uooq.outsystemscloud.com/HDBResale_Portal/
 
-Access depends on the availability and access settings of the OutSystems environment.
+The HDB Resale Portal is published in the above OutSystems 11 Personal Environment.
+
+The application login credentials have been shared separately via email.
 
 ## Design Considerations
 
