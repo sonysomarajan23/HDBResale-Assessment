@@ -84,6 +84,7 @@ The published application pages are intended to be accessible through the applic
 
 The published HDBResale_Portal application can be accessed through the URL above, subject to the environment's access settings.
 
+The application login credentials have been shared separately via email.
 ## Automated Testing
 
 The HDBResale_ServerTests module contains BDD scenarios for validating:
